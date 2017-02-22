@@ -1,5 +1,4 @@
-# Flash-Professional-cc2015-
-#关于Flash Professional cc2015 快捷键的迁移。
+# 关于Flash Professional cc2015 快捷键的迁移
  <br/>
 -可在重装软件和系统后无需重新设置快捷键，同时可以根据个人习惯进行修改。
 <br/> <br/>
